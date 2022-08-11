@@ -1,5 +1,6 @@
 h1{
     text-align: center;
+    color: white;
 }
 .container{
     width: 460px;
@@ -44,5 +45,14 @@ p{
     border: 5px solid greenyellow;
 }
 body{
-    background-color: rgb(87, 239, 239);
+    background-color: rgb(25, 24, 126);
+}
+h4{
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+
+}
+a{
+    color: rgb(218, 227, 227);
 }
